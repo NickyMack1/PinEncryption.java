@@ -31,3 +31,6 @@ public class PinEncryption {
         System.out.println("Your encrypted pin number is " + encryptedPin);
     }
 }
+
+Enter a 4-digit pin number to encrypt: 3189
+Your encrypted pin number is 1155c75bdf3
